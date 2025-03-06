@@ -43,3 +43,6 @@ amplifyconfiguration*
 .idea/
 amplify/node_modules
 amplify/package-lock.json
+
+# Turborepo
+.turbo
