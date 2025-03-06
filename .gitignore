@@ -39,3 +39,7 @@ next-env.d.ts
 .amplify
 amplify_outputs*
 amplifyconfiguration*
+
+.idea/
+amplify/node_modules
+amplify/package-lock.json
